@@ -1,17 +1,12 @@
-![Docs](https://img.shields.io/badge/Docs-OCNest%20AI-blue?style=for-the-badge&logo=Read%20The%20Docs&logoColor=white&link=https://ocnest-ai.gitbook.io/ocnest-ai-docs)
-![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://www.youtube.com)
-![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/ocnestai)
-![Twitter](https://img.shields.io/badge/-Follow%20Us-black?style=for-the-badge&logo=X&logoColor=white&link=https://twitter.com/ocnestai)
-![Exchange](https://img.shields.io/badge/Exchange-Trade%20Now-orange?style=for-the-badge&logo=Bitcoin&logoColor=white&link=https://example.com)
-
+[![Docs](https://img.shields.io/badge/Docs-OCNest%20AI-blue?style=for-the-badge&logo=Read%20The%20Docs&logoColor=white&link=https://ocnest-ai.gitbook.io/ocnest-ai-docs)](https://ocnest-ai.gitbook.io/ocnest-ai-docs) 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@ocnestai?si=s3TjIAzxr9jzQEnN)](https://youtube.com/@ocnestai?si=s3TjIAzxr9jzQEnN) 
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Us-%2326A5E4?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/OcNestAI)](https://t.me/OcNestAI) 
+[![Twitter](https://img.shields.io/badge/-Follow%20Us-black?style=for-the-badge&logo=X&logoColor=white&link=https://x.com/OcNestAI)](https://x.com/OcNestAI)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h1 align="center">Introduction</h1>
 
   <p align="center">
