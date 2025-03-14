@@ -255,6 +255,7 @@ This reserve backs ongoing development and marketing, essential for OcNest’s l
 <p>OcNest AI represents a significant advancement in information processing. By leveraging the power of NLP and LLM AI, the platform empowers users to navigate the complexities of the modern information landscape with greater clarity, efficiency, and confidence. OcNest AI transforms complex data into actionable intelligence, enabling better decision-making and driving innovation across diverse fields.</p>
 
 <h1 align="center">OcNest AI ROADMAP</h1>
+<div align="center"> ![image](https://github.com/OcNest-AI/.github/blob/548b0284e80faa745c666349485e2a06a7c22af3/OcNestAI-Utility.jpg) </div>
 <h3>Q1: Foundation Building</h3>
 <h4>Goals:</h4>
 <h5>- Establish core infrastructure and team.</h5>
