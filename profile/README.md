@@ -114,7 +114,7 @@ The rapid pace of technological advancement and globalization has created an unp
 <h4>Journalism:</h4>
 <p>Quickly processing news reports and creating concise summaries.</p>
 
-<h1>Vision and Mission</h1>
+<h1 align="center">Vision and Mission</h1>
 <h3>Vision:</h3>
 <p>To empower individuals and organizations to navigate the complexities of information in the modern world with clarity and actionable insights.</p>
 <h3>Mission:</h3>
