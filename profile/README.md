@@ -181,6 +181,7 @@ This reserve backs ongoing development and marketing, essential for OcNest’s l
 <h4>The token distribution is structured to ensure long-term sustainability, incentivize network participation, and cover operational costs via a transaction tax.</h4>
 
 <h1 align="center">Dynamic Staking with OcNest AI</h1>
+<img src="https://raw.githubusercontent.com/OcNest-AI/OcNestAI-Utilities/main/Staking-Utilities.png" alt="OcNest AI Logo">
 <p>What is Dynamic Staking? Dynamic staking with OcNest AI allows you to deposit and withdraw your crypto assets, specifically $OCAI, at any time without any time lock. Rewards can vary as they are not fixed by a stable APY. Instead, rewards in wrapped ETH ($wETH) are earned continuously and can be claimed whenever you prefer.</p>
 <h3>How It Works:</h3>
 <h4>1. Stake and Earn Rewards:</h4>
@@ -255,7 +256,8 @@ This reserve backs ongoing development and marketing, essential for OcNest’s l
 <p>OcNest AI represents a significant advancement in information processing. By leveraging the power of NLP and LLM AI, the platform empowers users to navigate the complexities of the modern information landscape with greater clarity, efficiency, and confidence. OcNest AI transforms complex data into actionable intelligence, enabling better decision-making and driving innovation across diverse fields.</p>
 
 <h1 align="center">OcNest AI ROADMAP</h1>
-<div align="center"> ![image](https://github.com/OcNest-AI/.github/blob/548b0284e80faa745c666349485e2a06a7c22af3/OcNestAI-Utility.jpg) </div>
+<img src="https://raw.githubusercontent.com/OcNest-AI/OcNestAI-Utilities/main/OcNestAI-Utility.jpg" alt="OcNest AI Logo">
+
 <h3>Q1: Foundation Building</h3>
 <h4>Goals:</h4>
 <h5>- Establish core infrastructure and team.</h5>
